@@ -48,6 +48,8 @@ Seluruh tugas dikerjakan sesuai modul pertemuan, dengan hasil berupa :
 | 11 | 16 Okt 2025 | 07 | 07 | 🌸 MODUL 11 – Manajemen State dengan GetX | [📂 Drive](https://drive.google.com/file/d/13ADJi6KYtbkKbur8JO6lYsxRreqPeqOD/view?usp=sharing) | [💻 tasbih_getx](https://github.com/SalsabilaAlya26/tasbih_getx.git) |
 | 12 | 23 Okt 2025 | 08 | 08 | 🌼 UTS - Aplikasi “Shalat and Dzikirku” (Reminder Sholat, Tasbih Digital, dan Doa Harian)| [📂 Drive](https://drive.google.com/file/d/1JnS2FaIDB8x52_OU0CUfxv9fNFGKh9WG/view?usp=sharing) | [💻 uts_mobile](https://github.com/SalsabilaAlya26/uts_mobile.git) <br>[💻 uts_FIGMA desain](https://www.figma.com/design/Ggu2kt3MTHDJ87DdoatAEW/uts-sabillll?node-id=1-159&t=d9WKlmxctLDKopuV-1) 
 | 13 | 06 Nov 2025 | 09 | 09 | 🌻 MODUL 12 - Akses Lokasi dengan GPS di Flutter| [📂 Drive](https://drive.google.com/file/d/1Y2tw8JMJ6Q75_ggW-DTGbhS1TjPe7idd/view?usp=sharing) | [💻 lokasi_flutter](https://github.com/SalsabilaAlya26/lokasi_flutter.git) |
+| 14 | 13 Nov 2025 | 10 | 10 | 🌷 MODUL 13 - Maps| [📂 Drive](https://drive.google.com/file/d/1w9Gez0lZnDD6nWDG4oBTFOWxAnl_OkRT/view?usp=sharing) | [💻 maps](https://github.com/SalsabilaAlya26/maps.git) |
+| 15 | 20 Nov 2025 | 11 | 11 | 💮 MODUL 14 - Flutter CRUD API| [📂 Drive](https://drive.google.com/file/d/1FW6fcElsJ_x4De96uvwUgHVPkmqPUXcA/view?usp=sharing) | [💻 Flutter CRUD API](https://github.com/SalsabilaAlya26/flutter_crud_api.git) |
 
              
 
